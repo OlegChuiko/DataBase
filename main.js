@@ -26,7 +26,7 @@ const getUsers = (req, res) =>
 const createStudents = async (req, res) => 
 {
   pool.query(
-    `CREATE TABLE Oleniak Serhii" (
+    `CREATE TABLE Chuiko Oleh" (
       id SERIAL PRIMARY KEY,
     first_name TEXT,
     last_name TEXT,
